@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+   background-image: url(./valentines-day-valentines-background-with-table-and-bokeh-love-red-background-valentines-day-empty-display-RCPDEE.jpg);
+   background-size: cover;
+  }
+
+  h1 {
+    font-size: 5rem;
+    color: #0443f3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
