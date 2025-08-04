@@ -11,7 +11,7 @@ function calculate(name1, name2) {
     else if (n > 60 && n < 80) {
         return "your score is " + n + ":" + name1 + " And " + name2 + " good couplen 💑";
     }
-    else if (n < 50) {
+    else if ( 40 >n && n < 50) {
         return "your score is " + n +":" + name1 + " And " + name2 + " normal couple 😊";
     }
     else {
